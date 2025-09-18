@@ -76,9 +76,8 @@ This helps others discover it and keeps the community growing!
 
 ---
 
-## 📄 `CONTRIBUTING.md`
-```markdown
-# 🤝 Contributing Guidelines
+ 📄 `CONTRIBUTING.md`
+ 🤝 Contributing Guidelines
 
 Thanks for considering contributing to **Awesome Open Data APIs**! 🎉  
 
@@ -86,12 +85,12 @@ We want this project to be **welcoming, beginner-friendly, and useful** for ever
 
 ---
 
-## 🚀 How to Contribute
+  🚀 How to Contribute
 
-### 1. Fork & Clone
+  1. Fork & Clone
 - Fork this repository  
 - Clone your fork locally:
-  ```bash
+  
   git clone https://github.com/YOUR_USERNAME/awesome-open-data-apis.git
 ````
 
