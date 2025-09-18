@@ -158,10 +158,3 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md). We want this project to
 ---
 
 Happy contributing! 🚀
-
-```
-
----
-
-⚡ Would you like me to also draft a **`CODE_OF_CONDUCT.md`** (standard Contributor Covenant) so you have the full set of starter community files?
-```
