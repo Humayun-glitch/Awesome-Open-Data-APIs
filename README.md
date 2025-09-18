@@ -1,10 +1,3 @@
-Perfect 👍 Here’s a ready-to-go draft for both files. You can just copy them into your repo and publish right away 🚀
-
----
-
-## 📄 `README.md`
-
-````markdown
 # 🌍 Awesome Open Data APIs
 
 A **community-driven collection of free & open APIs** with examples.  
